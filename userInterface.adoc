@@ -1,0 +1,68 @@
+= User Interface
+Mitchell Camfield <mbcamfield@gmail.com>
+v1.0, March 14, 2023
+:icons: font
+:toc: auto 
+:imagesdir: images
+
+== Prerequisites
+Google Earth is supported on https://www.google.com/chrome/[Chrome], https://www.mozilla.org/en-US/firefox/new/[Firefox], https://www.microsoft.com/en-us/edge/download?form=MA13FJ[Edge], and Safari (only available on Apple devices). Earth may also work on other browsers, but the performance may not be optimal.
+
+== Navigating to Google Earth
+To open Google Earth, go to https://earth.google.com.
+
+== Navigating the Globe
+.The Google Earth interface
+image::GoogleEarthHomeLabeled.png["A picture of Google Earth when it is first opened in a browser. We see a green North America surrounded by a blue ocean. A menu bar to the left allows us to interact with the map in different ways, and alternative viewing options are available in the lower right-hand corner of the webpage."]
+
+=== Mouse and Keyboard Controls
+* On the Google Earth interface, *clicking and holding the left-mouse button while dragging* will spin the globe. Alternatively, the arrow keys can be used to navigate Earth as well.
+* *Clicking and holding the middle mouse button while dragging* will quickly reorient the view of the globe.
+* *Holding control and clicking and holding the left-mouse button while dragging* will pan and reorient the view of the globe.
+* *Holding shift and clicking and holding the left-mouse button while dragging* will change perspectives and reorient the view of the globe.
+
+=== Icons and Buttons
+* The *Condensed Menu Bar* [1] includes features to interact and explore Earth in a variety of different ways.
+* The *Placemarks, Lines, and Shapes* [2] allows the user to create pins and mark areas to include in Earth projects.
+* Changing the *Globe and View Options* [3] will change the user interface of Earth as well as quickly navigate Earth.
+
+== Condensed Menu Bar
+.Google Earth Features
+image::GoogleEarthMenu.png["A black bar containing the features menu on Google Earth. From top to bottom, the bar includes a hamburger menu for more options, a magnifying glass to search for specific locations, a captain's wheel for the voyager feature, a dice to jump to a random location, a pin icon over a square to access project, a square icon over another square to change layers, and a ruler to measure distances."]
+
+Listed in the condensed menu bar on the right side of the screen are several Earth features.
+
+* Clicking the *Hamburger Menu* [1] will display some of the options from the menu bar in full detail as well as well as display the *Photos*, *Settings*, *Feedback*, and *Help* options.
+* The *Search Menu* [2] allows the user to search for a specific location on Google Earth.
+* The *Voyager Menu* [3] displays a showcase of interactive guided tours, quizzes, and layers that aim to help educate users about various locations around the world.
+* Click the *I'm Feeling Lucky* [4] die will display a random location on Google Earth.
+* The *Projects Menu* [5] displays all Google Earth presentations maintained by the user.
+* The *Map Style Menu* [6] allows the user to change the display of the Earth as well as manage Earth layers.
+* Using the *Ruler* [7] allows the user to measure distances in straight lines across Earth. If the lines connect into a shape, then the perimeter and area of that shape are displayed.
+
+== Placemarks, Lines, and Shapes
+
+image::PlacemarksLinesShapes.png["A black box that contains 2 icons. The icon on the left is a pin that can be used for marking specific places on Earth. The icon on the right is a line that can be used to draw lines and shapes and functions similarly to the ruler from the menu bar."]
+
+* Selecting the *Pin Icon* [1] will allow the user to place a pin anywhere on Earth to incorporate into Earth projects.
+* The *Line Icon* [2] operates similarly to the Ruler in from the menu bar. The user can draw lines and shapes to incorporate into Earth projects.
+
+== Globe and View Options
+image::GlobeViewOptions.png["A variety of options to change the display of the Earth interface. It includes zoom in/out buttons, a compass for orientation, a 3D button to change perspective, a street view button, a fly to location button to orient Earth to the user's location, and a small interactive globe to allow the user to quickly change positions."]
+
+* The *Zoom In/Out* buttons [1] will zoom in or out of Earth, centered on the center of the screen.
+
+NOTE: The scroll wheel on a mouse can also be used to zoom in and out and is centered on the mouse position on-screen.
+
+* When the *Compass* [2] is single-clicked, it will reorient the view of the globe so that the North pole is facing upward. When the Compass is double-clicked, it will switch places with the small Globe [6] icon. 
+* Selecting the *View Tilt* button [3] will change the perspective from 3D to 2D or vice versa. 
+
+NOTE: The View Tilt button is only available if the Camera is 2,000km or less. The Camera reading can be found below the Zoom In/Out buttons [1].
+
+* Selecting the *Street View* button [4] and then selecting a blue highlighted location on Earth will enter Street View. Selecting the Street View button again will exit Street View. 
+* The *Fly to Location* button [5] will focus Earth on the user's location.
+* Clicking or dragging anywhere on the *Small Globe* [6] will focus Earth on the point selected on the Small Globe
+
+
+
+
