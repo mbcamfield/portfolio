@@ -3,7 +3,7 @@ Mitchell Camfield <mbcamfield@gmail.com>
 v1.0, March 14, 2023
 :icons: font
 :toc: auto 
-:imagesdir: images
+:imagesdir: images/googleEarthWebUIPics/
 
 == Prerequisites
 Google Earth is supported on https://www.google.com/chrome/[Chrome], https://www.mozilla.org/en-US/firefox/new/[Firefox], https://www.microsoft.com/en-us/edge/download?form=MA13FJ[Edge], and Safari (only available on Apple devices). Earth may also work on other browsers, but the performance may not be optimal.
@@ -11,7 +11,7 @@ Google Earth is supported on https://www.google.com/chrome/[Chrome], https://www
 == Navigating to Google Earth
 To open Google Earth, go to https://earth.google.com.
 
-== Navigating the Globe
+== Navigating the Google Earth for Web Interface
 .The Google Earth interface
 image::GoogleEarthHomeLabeled.png["A picture of Google Earth when it is first opened in a browser. We see a green North America surrounded by a blue ocean. A menu bar to the left allows us to interact with the map in different ways, and alternative viewing options are available in the lower right-hand corner of the webpage."]
 
