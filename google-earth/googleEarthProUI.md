@@ -80,7 +80,7 @@ Google Earth Pro for desktop is available for Windows, Max, and Linux operating 
 
 <div>
 <figure>
-<img src=.\images\googleEarthProUIPics/entireInterfaceLabeled.png alt="A labeled image of the Google Earth Pro interface and its main areas. The top-left corner is labeled 1 and contains the menu bar. The left-hand side is labeled 2 and contains the left-panels. The globe dominates the page and is labeled 3. Right above the globe are the project tools, which are labeled with a 4. Finally, labeled with a 5 and in the top-right hand corner, is the earth navigation tools."></img>
+<img src=.\images\googleEarthProUIPics/entireInterfaceLabeled.png alt="A labeled image of the Google Earth Pro interface and its main areas. The top-left corner is labeled 1 and contains the menu bar. The left-hand side is labeled 2 and contains the sidebar. The globe dominates the page and is labeled 3. Right above the globe are the project tools, which are labeled with a 4. Finally, labeled with a 5 and in the top-right hand corner, is the earth navigation tools."></img>
 <figcaption>Fig 1. The Google Earth Pro interface and its main sections.</figcaption>
 </figure>
 The Google Earth Pro Interface can be broken down into 5 sections:
@@ -92,8 +92,119 @@ The Google Earth Pro Interface can be broken down into 5 sections:
 * The globe navigation tools
 
 ### Navigating the Menu Bar
+#### File
+* Open
+* Save
+* Email
+* View in Google Maps
+* View in Google Earth on Web
+* Print
+* Import
+* Server Sign Out
+* Exit
+
+#### Edit
+* Copy, Paste, Delete
+* Find
+* Refresh, Rename, Snapshot View, Sort A-Z, Delete Contents
+* Split apart multi geometry, combine into multi geometry
+* Apply Style Template
+* Show Elevation Profile, Viewshed
+* Properties
+
+#### View
+* Toolbar, Sidebar
+* Full screen, View size, show navigation
+* Status bar, grid, overview map, scale legend
+* Atmosphere, sun, historical imagery, wayer surface
+* Explore, reset
+* Make this my start location
+
+#### Tools
+* Ruler, Tables, GPS
+* Movie Maker
+* Regionate
+* Enter Flight Simulator
+* Options
+
+#### Add
+* Folder
+* Placemarker, path, polygon, model
+* Tour
+* Photo, image overlay
+* Network link
+
+#### Help
+* Help Resources
+* Keyboard shortcuts
+* Start-up tips
+* Launch repair tool
+* Release notes
+* ToS
+* Privacy
+* Send Feedback
+* About Google Earth
+
 ### Navigating the Left-Hand Panels 
+#### Search
+* Using the search bar
+* Get directions
+* history
+
+#### Places
+* My places - defaults
+* Temporary places
+// Make link on how to add places in document
+
+#### Layers
+* Primary Database
+// If database is added, does it have the same layers path?
+* Loading? 
+* Borders and/or Labels
+* Places
+* Photos
+* Roads
+* 3D buildings
+* weather
+* gallery
+* More
+  * Parks & rec + federal
+  * Transportation
+  * Water body outlines
+  * wikipedia
+  * U.S. Government
+* Terrain
+
 ### Navigating the Earth Interface and Earth Interface Tools
 #### The Earth Interface
+* Click and drag to move
+* Pressing buttons and dragging
+* Using the arrow keys
+* Using the arrow keys and pressing buttons
+
 #### The Earth Interface Project Tools
+* Hide Sidebar
+* Placemark
+* Polygon
+* Path
+* Image overlay
+* record tour
+* historical imagery
+* sunlight across landscape
+* Change planet
+  * Earth
+  * Night sky
+  * Mars
+  * Moon
+* Show ruler
+* email
+* print
+* save image
+* view in google maps
+* view in google earth on web
+
 #### The Earth Interface Navigation Tools
+* Compass
+* Move around - panning
+* Zoom
+* Quick jump on mini-map
